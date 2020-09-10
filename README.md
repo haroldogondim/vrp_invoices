@@ -23,3 +23,4 @@ ALTER TABLE `vrp_invoices`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 COMMIT;
 ```
+## [Discord de desenvolvimento KS Network](https://discord.gg/GsQNwaP)
